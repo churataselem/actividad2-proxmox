@@ -4,10 +4,14 @@ Este repositorio contiene la configuración inicial de Terraform para conectarse
 
 ---
 
-## 📄 Captura de Pantalla
+# 📄 Captura de Pantalla Terraform Init
 
 📷 ![actividad2](https://github.com/churataselem/actividad2-proxmox/blob/main/Captura%20desde%202025-05-14%2014-08-33.png)
 
+
+# 📄 Captura de Pantalla Terraform Plan
+
+📷 ![actividad2](https://github.com/churataselem/actividad2-proxmox/blob/main/Captura%20desde%202025-05-14%2015-12-43.png)
 
 ### `providers.tf`
 
